@@ -114,8 +114,8 @@ body {
     <td width="936" height="104"> <div align="center" class="PO"> HI&quot;  I AM PRABHU  WELCOME TO MY SITE 
 </div></td>
   </tr>
-</table>
-<p><span class="OP"><img src="qkseeViewer.png" width="146" height="153" align="left" /></span></p>
+</table> 
+<meta property="og:image" content="http://qkseeViewer.png/img/325x325.png">
 <p align="justify" class="ON">&nbsp;</p>
 <p align="center" class="ON">M.M.PRABHU</p>
 <p align="center" class="ON">mkkprabhu@gmail.com</p>
